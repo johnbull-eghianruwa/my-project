@@ -1,0 +1,10 @@
+.visit {
+    background-image: url(../assets/BookImage.jpeg);
+    background-position: center;
+}
+.visit .row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
